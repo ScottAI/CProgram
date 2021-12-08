@@ -9,5 +9,3 @@ dependencies:
     - notebook
     - pip:
         - jupyter-c-kernel==1.2.2
-        
-    - install_c_kernel --sys-prefix
