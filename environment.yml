@@ -8,4 +8,4 @@ dependencies:
     - jupyter
     - notebook
     - pip:
-        - jupyter-c-kernel==1.2.2
+        - jupyter-c-kernel
