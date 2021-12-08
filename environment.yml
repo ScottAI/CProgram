@@ -3,7 +3,7 @@ channels:
     - conda-forge
 dependencies:
     - python=3
-- gcc
+    - gcc
     - pip=19.2.1
     - jupyter
     - notebook
